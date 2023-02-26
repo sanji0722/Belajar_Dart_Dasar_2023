@@ -1,6 +1,7 @@
 void main() {
   String nama = "Epul Saepuloh";
   num a = 100;
+  var anjing = 'Nurul';
   final jenisKelamin = 'Laki-laki';
   const negara = 'Indonesia';
 
