@@ -1,4 +1,8 @@
 void main() {
+  //Membuat simbol
+  var taman = #taman;
+  Symbol titik = Symbol('ini dimana yah?');
+
   Map<String, int> namaHari = {
     'Senin': 1,
     'Selasa': 2,
